@@ -24,7 +24,7 @@ A lightweight extension/userscript that restores the classic 2-column YouTube la
 
 1. Установи расширение [Tampermonkey](https://www.tampermonkey.net/) (или Violentmonkey) для своего браузера.
 2. Перейди на страницу скрипта на **[Greasy Fork](https://greasyfork.org/)** *(вставь сюда ссылку на свой скрипт)* и нажми зелёную кнопку **«Установить этот скрипт»**.
-3. Готово! Скрипт будет автоматически обновляться при выходе новых версий.
+3. Готово! Пользуйся :)
 
 ---
 
