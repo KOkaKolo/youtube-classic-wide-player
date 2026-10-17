@@ -13,6 +13,8 @@ A simple extension to return a normal YouTube interface and stretch the player t
 
 ---
 
+### Установка в Firefox addons.mozilla.org/en/firefox/addon/old-design-for-youtube/
+
 ### Установка в Chrome / Edge / Brave / Opera
 
 1. Перейди в раздел **[Releases](../../releases)** справа и скачай архив `youtube-classic-wide.zip`.
