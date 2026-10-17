@@ -1,6 +1,6 @@
 # Classic Wide Player for YouTube
 
-Простое и легковесное расширение для возврата нормального двухколоночного интерфейса YouTube и растягивания плеера на всю ширину экрана без черных полей.
+Простое расширение для возврата нормального интерфейса YouTube и растягивания плеера на всю ширину экрана без черных полей.
 
 A lightweight extension that restores the classic 2-column YouTube layout and expands the player to full width.
 
