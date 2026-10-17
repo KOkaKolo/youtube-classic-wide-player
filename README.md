@@ -13,7 +13,7 @@ A simple extension to return a normal YouTube interface and stretch the player t
 
 ---
 
-### Установка в Firefox addons.mozilla.org/en/firefox/addon/old-design-for-youtube/
+### Установка в [Firefox] (https://www.addons.mozilla.org/en/firefox/addon/old-design-for-youtube/)
 
 ### Установка в Chrome / Edge / Brave / Opera
 
