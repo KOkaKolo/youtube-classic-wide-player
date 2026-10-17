@@ -2,7 +2,7 @@
 
 Простое расширение для возврата нормального интерфейса YouTube и растягивания плеера на всю ширину экрана без черных полей.
 
-A lightweight extension that restores the classic 2-column YouTube layout and expands the player to full width.
+A simple extension to return a normal YouTube interface and stretch the player to the full width of the screen without black fields.
 
 ---
 
