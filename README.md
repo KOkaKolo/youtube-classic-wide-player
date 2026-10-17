@@ -2,30 +2,42 @@
 
 Простое расширение для возврата нормального интерфейса YouTube и растягивания плеера на всю ширину экрана без черных полей.
 
-A simple extension to return a normal YouTube interface and stretch the player to the full width of the screen without black fields.
+A lightweight extension/userscript that restores the classic 2-column YouTube layout and expands the player to full width on widescreen displays.
 
 ---
 
 ### Что делает / Features:
-* Возвращает классический вид (рекомендации справа, а не в сетке под видео).
+* Возвращает классический вид (рекомендации справа в одну колонку, а не в сетке под видео).
 * Плеер раздувается на всю ширину экрана до боковой панели.
-* Убирает черные поля и пустые дыры на широкоформатных мониторах (21:9)
+* Убирает черные поля и пустые дыры на широкоформатных мониторах (16:9, 21:9).
+* Не ломает Главную страницу и вкладки каналов.
+* Полностью чистый код: 0 трекеров, без рекламы и сбора данных.
 
 ---
 
-### Установка в **[Firefox](https://www.addons.mozilla.org/en/firefox/addon/old-design-for-youtube/)**
+### Установка / Installation
 
-### Установка в Chrome / Edge / Brave / Opera
+#### Firefox:
+* Установка в 1 клик из официального каталога: **[Установить из Firefox Add-ons](https://addons.mozilla.org/firefox/addon/old-design-for-youtube/)**
 
-1. Перейди в раздел **[Releases](../../releases)** справа и скачай архив `youtube-classic-wide.zip`.
-2. Распакуй скачанный архив в любую папку на компьютере (например, в «Документы»).
-3. В браузере перейди по ссылке:
-   * В Chrome: `chrome://extensions/`
-   * В Edge: `edge://extensions/`
-   * В Opera: `opera://extensions/`
-4. В правом верхнем углу включи тумблер **«Режим разработчика»** (Developer mode).
-5. Нажми кнопку **«Загрузить распакованное»** (Load unpacked) слева вверху и укажи распакованную папку.
-6. Готово!
+#### Chrome / Edge / Brave / Opera / Яндекс:
+
+**Вариант 1 (Рекомендуемый, с автообновлениями):**
+1. Установи расширение [Tampermonkey](https://www.tampermonkey.net/) (или Violentmonkey) для своего браузера.
+2. Перейди на страницу скрипта на **[Greasy Fork](https://greasyfork.org/)** *(вставь сюда ссылку на свой скрипт)* и нажми зелёную кнопку **«Установить этот скрипт»**.
+3. Готово! Скрипт будет автоматически обновляться при выходе новых версий.
+
+**Вариант 2 (Вручную архивом без сторонних расширений):**
+1. Скачай архив `classic-yt-design.zip` из раздела **[Releases](../../releases)** справа.
+2. Распакуй его в любую постоянную папку на компьютере.
+3. Открой в браузере страницу расширений (`chrome://extensions/` или `edge://extensions/`).
+4. Включи тумблер **«Режим разработчика»** в правом верхнем углу.
+5. Нажми **«Загрузить распакованное»** слева вверху и выбери распакованную папку.
 
 ---
+
+### Поддержать автора / Support:
+Если проект спас твой просмотр YouTube и ты хочешь угостить автора чашкой кофе:
+* **International (Cards / PayPal):** [Destream](https://destream.net/live/logika/donate)
+* **Россия и СНГ (СБП, Карты):** [DonationAlerts](https://www.donationalerts.com/r/plus_munus)
 
