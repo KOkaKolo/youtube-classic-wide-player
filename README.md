@@ -29,7 +29,3 @@ A simple extension to return a normal YouTube interface and stretch the player t
 
 ---
 
-### Поддержать автора / Donate:
-Если расширение помогло вернуть нормальный вид сайта:
-* **DonationAlerts:** [donationalerts.com/r/твой_ник](https://www.donationalerts.com/r/твой_ник)
-* **Patreon:** [patreon.com/твой_ник](https://www.patreon.com/твой_ник)
