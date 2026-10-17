@@ -17,8 +17,7 @@ A lightweight extension/userscript that restores the classic 2-column YouTube la
 
 ### Установка / Installation
 
-#### Firefox:
-* Установка в 1 клик из официального каталога: **[Установить из Firefox Add-ons](https://addons.mozilla.org/firefox/addon/old-design-for-youtube/)**
+#### Firefox: **[Установить из Firefox Add-ons](https://addons.mozilla.org/firefox/addon/old-design-for-youtube/)**
 
 #### Chrome / Edge / Brave / Opera:
 
